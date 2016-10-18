@@ -19,6 +19,8 @@ public:
 	void(Object::*callback)(void) = nullptr;
 
 
+
+
 	void exe() {
 		(this->*callback)();
 	}
