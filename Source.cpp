@@ -67,13 +67,9 @@ int main(void) {
 
 //	my_circle.callback();
 
-
-
-
 	/*
 	int a = 123;
 	int* ptr_a = nullptr;
-
 
 	void(*func_ptr)(void) = nullptr;
 
@@ -89,24 +85,16 @@ int main(void) {
 	(*func_ptr)();
 	*/
 
-
-
-
-
-
 /*
 	ptr_a = &a;
-
 
 	if (ptr_a != nullptr) std::cout << ptr_a << std::endl;
 
 	ptr_a = new int[100];
 
-
 	delete[] ptr_a;
 */
 
 	return 0;
-
 
 }
